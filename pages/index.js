@@ -31,10 +31,10 @@ const Home = ({
   return (
     <Base>
       {/* Banner */}
-      <section className="section banner relative pb-0">
+      <section className="section banner relative pb-10">
         <ImageFallback
           className="absolute bottom-0 left-0 z-[-1] w-full"
-          src={"/images/banner-bg-shape.svg"}
+          src={"/images/banner.jpg"}
           width={1905}
           height={295}
           alt="banner-shape"
@@ -45,10 +45,10 @@ const Home = ({
           <div className="row flex-wrap-reverse items-center justify-center lg:flex-row">
             <div className="mt-12 text-center lg:mt-0 lg:text-left lg:col-6">
               <div className="banner-title">
-                {markdownify(banner.title, "h1")}
-                {markdownify(banner.title_small, "span")}
+                {markdownify(banner.title, "h1", "text-white")}
+                {markdownify(banner.title_small, "h2", "text-white")}
               </div>
-              {markdownify(banner.content, "p", "mt-4")}
+              {markdownify(banner.content, "p", "mt-4 text-white")}
               <Link
                 className="btn btn-primary mt-6"
                 href={banner.button.link}
@@ -57,15 +57,48 @@ const Home = ({
                 {banner.button.label}
               </Link>
             </div>
-            <div className="col-9 lg:col-6">
-              <ImageFallback
-                className="mx-auto object-contain"
-                src={banner.image}
-                width={548}
-                height={443}
-                priority={true}
-                alt="Banner Image"
-              />
+            <div className="col-9 lg:col-6"></div>
+          </div>
+        </div>
+      </section>
+
+      <section className="section pb-0">
+        <div className="container">
+          <h2 className="flex text-center justify-center mb-4 text-[#0a265b]">
+            WHAT WE DO
+          </h2>
+          <p className="mb-7">
+            EarthKeepers Alliance commitment to environmental conservation,
+            sustainable development, and creating a healthier planet for future
+            generations. We are an organization dedicated to the world's
+            environmental protection. We have been dedicated to the protection
+            of Marine environment before, and have rescued and cleaned up a lot
+            of polluted garbage. Now we are focused on the protection of land
+            environment.
+          </p>
+          <div className="flex flex-col">
+            <div className="border rounded-lg  px-4 bg-[#2ba283] text-white py-4 mb-4">
+              <div className="font-bold">PRESERVING MARINE ECOSYSTEMS</div>
+              <div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Suspendisse varius enim in eros elementum tristique.
+              </div>
+            </div>
+            <div className="border rounded-lg  px-4 bg-[#2ba283] text-white py-4 mb-4">
+              <div className="font-bold">PROTECTING TERRESTRIAL ECOSYSTEMS</div>
+              <div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Suspendisse varius enim in eros elementum tristique.
+              </div>
+            </div>
+            <div className="border rounded-lg  px-4 bg-[#2ba283] text-white py-4">
+              <div className="font-bold">
+                PROMOTING SUSTAINABLE AGRICULTURE AND LAND USE
+              </div>
+              <div>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Suspendisse varius enim in eros elementum tristique.
+              </div>
             </div>
           </div>
         </div>
@@ -75,11 +108,15 @@ const Home = ({
       <section className="section">
         <div className="container">
           <div className="row items-start">
-            <div className="mb-12 lg:mb-0 lg:col-8">
+            <div className="mb-12 lg:mb-0">
               {/* Featured posts */}
               {featured_posts.enable && (
                 <div className="section">
-                  {markdownify(featured_posts.title, "h2", "section-title")}
+                  {markdownify(
+                    featured_posts.title,
+                    "h2",
+                    "section-title decoration-solid"
+                  )}
                   <div className="rounded border border-border p-6 dark:border-darkmode-border">
                     <div className="row">
                       <div className="md:col-6">
@@ -161,12 +198,37 @@ const Home = ({
                 currentPage={1}
               />
             </div>
+
             {/* sidebar */}
             <Sidebar
               className={"lg:mt-[9.5rem]"}
               posts={posts}
               categories={categories}
             />
+          </div>
+        </div>
+      </section>
+
+      <section className="section banner relative pb-10 overflow-hidden">
+        <ImageFallback
+          className="absolute top-0 left-0  bottom-0 z-[-1] w-full"
+          src={"/images/JCRpanorama.jpg"}
+          width={1905}
+          height={295}
+          alt="banner-shape"
+          priority
+        />
+
+        <div className="container">
+          <div className="row flex-wrap-reverse items-center justify-center lg:flex-row">
+            <div className="mt-12 text-center lg:mt-0 lg:text-left lg:col-6">
+              <div className="banner-title">
+                {markdownify(banner.foot_title, "h1", "text-[#2ba283]")}
+                {markdownify(banner.foot_title_small, "h2", "text-white")}
+              </div>
+              {markdownify(banner.foot_content, "p", "mt-4 text-white")}
+            </div>
+            <div className="col-9 lg:col-6"></div>
           </div>
         </div>
       </section>

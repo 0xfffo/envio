@@ -1,20 +1,20 @@
 ---
 title: "Let’s, Talk </br> About You"
-description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+description: "Eka"
+phone: ""
+mail: "contact@earthkeepersalliances.com"
+location: "98000 Glen Port Suite 438"
 form_action: "#"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
+    content:
+    link:
   - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
+    content: contact@earthkeepersalliances.com
+    link: mailto:contact@earthkeepersalliances.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: 98000 Glen Port Suite 438
 
 draft: false
 ---

@@ -1,5 +1,5 @@
-<h1 align=center>Geeky Nextjs</h1>
-<p align=center>Geeky is a free NextJs personal blog template</p>
+<h1 align=center>Eka</h1>
+<p align=center>Eka</p>
 <h2 align="center"> <a target="_blank" href="https://geeky-nextjs.vercel.app/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fgeeky-nextjs.vercel.app%2F&form_factor=desktop">Page Speed (100%)</a>
 </h2>
 
@@ -33,6 +33,7 @@
 - Images Optimized With Next/image
 
 <!-- installation -->
+
 ## Installation
 
 After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
@@ -68,12 +69,14 @@ npm run build
 ```
 
 <!-- reporting issue -->
+
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/statichunt/geeky-nextjs/issues). It’s possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/statichunt/geeky-nextjs/issues).
 
 <!-- licence -->
+
 ## License
 
 Copyright (c) 2019 - Present, Designed & Developed by [statichunt](https://statichunt.com)

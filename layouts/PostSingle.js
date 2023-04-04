@@ -33,14 +33,14 @@ const PostSingle = ({
       <section className="section single-blog mt-6">
         <div className="container">
           <div className="row">
-            <div className="lg:col-8">
+            <div className="">
               <article>
                 <div className="relative">
                   {image && (
                     <Image
                       src={image}
-                      height="500"
-                      width="1000"
+                      height="200"
+                      width="700"
                       alt={title}
                       className="rounded-lg"
                     />
@@ -91,10 +91,6 @@ const PostSingle = ({
                 )}
               </div>
             </div>
-            <Sidebar
-              posts={posts.filter((post) => post.slug !== slug)}
-              categories={allCategories}
-            />
           </div>
         </div>
 

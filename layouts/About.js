@@ -29,7 +29,7 @@ const About = ({ data }) => {
         </div>
 
         <div className="row mt-24 text-left lg:flex-nowrap">
-          <div className="lg:col-6 ">
+          {/* <div className="lg:col-6 ">
             <div className="rounded border border-border p-6 dark:border-darkmode-border ">
               {markdownify(education.title, "h2", "section-title mb-12")}
               <div className="row">
@@ -43,8 +43,8 @@ const About = ({ data }) => {
                 ))}
               </div>
             </div>
-          </div>
-          <div className="experience mt-10 lg:mt-0 lg:col-6">
+          </div> */}
+          <div className="experience mt-10 lg:mt-0">
             <div className="rounded border border-border p-6 dark:border-darkmode-border ">
               {markdownify(experience.title, "h2", "section-title mb-12")}
               <ul className="row">

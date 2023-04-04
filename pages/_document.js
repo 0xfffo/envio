@@ -11,7 +11,7 @@ const Document = () => {
         {/* favicon */}
         <link rel="shortcut icon" href={favicon} />
         {/* theme meta */}
-        <meta name="theme-name" content="geeky-nextjs" />
+        <meta name="theme-name" content="eka" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="theme-color"
@@ -26,7 +26,7 @@ const Document = () => {
       </Head>
       <body>
         <Main />
-        <TwSizeIndicator />
+        {/* <TwSizeIndicator /> */}
         <NextScript />
       </body>
     </Html>

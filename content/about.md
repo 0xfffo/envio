@@ -1,36 +1,21 @@
 ---
-title: About The Author
-image: /images/author.png
+title: About Us
+image:
 description: "meta description"
 layout: about
-education:
-  title: Formal Education
-  degrees:
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Northeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Easteast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"  
-
 experience:
-  title: Work Experience
+  title: We're working on it
   list:
-    - Best Writer Award
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best Book
-
+    - Preserving Marine Ecosystems
+    - Promoting sustainable fishing practices
+    - Reducing marine pollution and plastic waste
+    - Protecting and restoring coral reefs and other critical habitats
+    - Protecting Terrestrial Ecosystems
+    - Conserving forests, wetlands, and grasslands
+    - Promoting sustainable agriculture and land use
+    - Restoring degraded ecosystems and preventing deforestation
+    - Advocating for Environmental Protection
+    - Raising public awareness about environmental issues
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+The EarthKeepers Alliance is a global environmental organization dedicated to protecting the marine and terrestrial environments. They have successfully addressed hundreds of environmental issues and restored over two dozen Marine and terrestrial ecosystems. The organization is committed to promoting sustainable lifestyles, educating citizens on the importance of caring for the environment, and encouraging people to take action in their communities. Their efforts are an inspiration to us all in protecting our planet's precious natural resources and ensuring a better future for generations to come.

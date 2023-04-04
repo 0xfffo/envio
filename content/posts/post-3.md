@@ -1,25 +1,30 @@
 ---
-title: What you need to know about Photography
-date: 2022-04-02T06:00:00+00:00
-image: /images/post/post-3.png
-categories: ["workstation"]
+title: "Damian Fuller"
+date: 2023-04-02T07:00:00Z
+image: /images/post/GL-0365.jpg
+categories: ["cropland"]
 featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+The local Bavarian government currently has no model agro-forestry projects in our region and the local council therefore has no means of promoting or supporting such projects regionally. National regulation is currently under consideration as part of the Green New Deal from the EU and this is expected to lead to significant interest in agro-forestry projects in the region, but without appropriate support it is likely the uptake of these projects will be delayed.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Nature-Based Proposal
 
-## Covid-19 Situation
+### Our approach:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+We aim to develop a model micro-farm with documented processes and local language knowledge exchange that will help build the capacity of the local council with respect to agro-forestry projects, so that they are ready to support other regenerative farming initiatives when the national regulation and incentive scheme is passed.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### Our strategy:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+An old 2Ha farm has been procured in the Bavarian hills and different vegetables, livestock and fruit trees have been trialed on the farm and surrounds in small quantities. The layout of the land has been assessed and an infrastructure assessment conducted. The local council has been engaged and a draft plan developed and tailored to the land (which includes a bio-reserve). Based on these inputs we have determined that the way forward is to create a permaculture consistent, combined broiler chicken, grass and high-growth fruit tree orchard agro-forestry (StruObst) project to meet the balanced needs of environment, economy and community.
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+The model for this farm will be the relevant components of Richard Perkins Ridgedale farm as outlined in his book "Regenerative Agriculture".
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Benefits
+
+-
+
+## Organization
+
+-
